@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Home 4</string>
+    <string name="app_title">My Home</string>
+    <string name="btn_arm">Arm Security System</string>
+    <string name="btn_disarm">Disarm Security System</string>
+    <string name="btn_check">Check Current State</string>
+    <string name="security_phonenumber">0000000000</string>
+    <string name="security_arm_command">!!*PASS*21*</string>
+    <string name="security_disarm_command">!!*PASS*31*</string>
+    <string name="security_check_command">!!*PASS*22*</string>
+    <string name="security_armed_msg">Security is ACTIVE</string>
+    <string name="security_disarmed_msg">Security is OFF</string>
+</resources>
