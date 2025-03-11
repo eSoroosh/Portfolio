@@ -2,6 +2,9 @@
 
 ## 📖 Overview
 This project includes a comprehensive Supplier Relationship Management (SRM) implementation within Microsoft Dynamics 365 CRM, specifically tailored and executed in Persian to meet local organizational needs. The project ensures seamless integration and data consistency across various enterprise systems.
+![Overview Diagram](https://github.com/user-attachments/assets/853b59ee-390e-42fd-b734-ee9d332d3c25)
+
+![Top Level Workflow Diagram](https://github.com/user-attachments/assets/cc80f603-9b63-457f-b164-14af35cc93ec)
 
 ## 🌟 Project Objectives
 - Centralized management of supplier-related operations and transactions.
@@ -36,7 +39,9 @@ This project includes a comprehensive Supplier Relationship Management (SRM) imp
 
 ## 🛠️ Technologies Used
 - **Microsoft Dynamics 365 CRM:** Core platform for CRM customization and management.
-- **SSIS (SQL Server Integration Services):** Data integration and pipeline automation.
+- **![Screenshot 2025-03-11 190447](https://github.com/user-attachments/assets/6835a349-20ad-49be-942b-926136e40c6e)
+SSIS (SQL Server Integratio![Screenshot 2025-03-11 190629](https://github.com/user-attachments/assets/87b3fd86-5da4-4af9-87dc-6131be7bed97)
+n Services):** Data integration and pipeline automation.
 - **REST APIs & Dynamics SDK:** Advanced integrations for real-time data synchronization.
 - **Power BI:** Visualization and analytic reporting.
 - **SQL Server:** Robust database management and data storage.
@@ -77,4 +82,5 @@ Dynamics365-SRM/
 ## 📞 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/soroosh-khaledi/](https://www.linkedin.com/in/soroosh-khaledi/)
 - **GitHub:** [Sorooshxp](https://github.com/Sorooshxp)
+
 
