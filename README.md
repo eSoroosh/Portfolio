@@ -19,8 +19,8 @@ I am a Senior Software Engineer with over a decade of experience in full-stack d
     AI Product Management, Cybersecurity, E-Commerce Solutions
   
 🏆 Certifications:
-  - IBM Product Management - IBM](https://coursera.org/share/4a0b26d32979262ed54298db4ab4dfbc)
-  - AI Product Management - IBM](https://coursera.org/share/3c365efc7bd0fb4143cfd8a430cfb35f)
+  - [IBM Product Management - IBM](https://coursera.org/share/4a0b26d32979262ed54298db4ab4dfbc)
+  - [AI Product Management - IBM](https://coursera.org/share/3c365efc7bd0fb4143cfd8a430cfb35f)
   - [Power BI Data Analyst — Coursera](https://coursera.org/share/26990f436407202b9e5abbe472d4cdcd)
   - [IT Project Management — IBM](https://coursera.org/share/205e864e04d09d53a943c481175ae067)
   - [Project Management — Google](https://coursera.org/share/eab1aeb6266583face045507d368be85)
