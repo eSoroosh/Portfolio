@@ -75,3 +75,7 @@ MyProject/
 ```
 ## UI Screenshots
 Below are a few example screens from the Match-Mark Web Application and the Offline Android Companion. These demonstrate the app’s core functionality, such as part listing, blueprint overlay, and offline data entry. 
+![Android-V01-layout-Screenshot](https://github.com/user-attachments/assets/d4110293-1a22-42ad-8416-594ea3a4d00c)
+![Android-V01-layout-details-Screenshot](https://github.com/user-attachments/assets/d35a605a-b2b8-4ca4-a7e3-9c6da4d11714)
+![Android-V0 1-Screenshot](https://github.com/user-attachments/assets/9a987a06-1c73-4df1-9459-4bce31ec4484)
+![PlantRelocationWeb-V01-Projects-Screenshot](https://github.com/user-attachments/assets/66887d93-db78-4405-9293-c7de37c4aeb5)
