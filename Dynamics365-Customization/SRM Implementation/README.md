@@ -1,5 +1,15 @@
 # 📌 Dynamics 365 CRM - Supplier Relationship Management (SRM) Implementation (Persian Language)
 
+## Table of Contents
+- [📖 Overview](#-overview)
+- [🌟 Project Objectives](#-project-objectives)
+- [🚀 Key Features](#-key-features)
+- [🛠️ Technologies Used](#-technologies-used)
+- [🗂️ Project Structure](#-project-structure)
+- [📸 Screenshots](#-screenshots)
+- [📈 Project Outcomes](#-project-outcomes)
+- [📞 Contact](#-contact)
+- 
 ## 📖 Overview
 This project includes a comprehensive Supplier Relationship Management (SRM) implementation within Microsoft Dynamics 365 CRM, specifically tailored and executed in Persian to meet local organizational needs. The project ensures seamless integration and data consistency across various enterprise systems.
 ![Overview Diagram](https://github.com/user-attachments/assets/853b59ee-390e-42fd-b734-ee9d332d3c25)
