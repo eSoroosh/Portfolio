@@ -23,7 +23,7 @@ This project includes a comprehensive Supplier Relationship Management (SRM) imp
   - Activity Types, Document Types
 
 - **Financial Tools:**
-  - Payment Methods and Bank Integrations
+  - Payment Methods and Bank Credit Monitoring
   - Cost Management Forms, Customs Management, Import Areas Management
 
 ### Real-Time Reporting and Dashboards
