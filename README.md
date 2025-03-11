@@ -62,8 +62,6 @@ A series of custom modules and integrations for Dynamics 365 CRM:
   - BSc in Computer Software Engineering 
 
 ## 🧑‍🏫 Mentorship & Community Involvement
-<section style="height: 496px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;"><iframe src="https://adplist.org/widgets/booking?src=soroosh-khaledi" title="" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
-
 I am passionate about sharing knowledge and empowering the next generation of tech professionals. As a mentor on [ADPList](https://adplist.org/mentors/soroosh-khaledi), I provide guidance on:
 - **Career Development:** Assisting mentees in navigating their career paths in the tech industry
 - **Technical Skills:** Offering insights into full-stack development, AI integration, and best coding practices
