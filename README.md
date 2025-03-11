@@ -61,6 +61,12 @@ A series of custom modules and integrations for Dynamics 365 CRM:
   - Executive Master of Business Administration (EMBA)
   - BSc in Computer Software Engineering 
 
+## 🧑‍🏫 Mentorship & Community Involvement
+I am passionate about sharing knowledge and empowering the next generation of tech professionals. As a mentor on [ADPList](https://adplist.org/mentors/soroosh-khaledi), I provide guidance on:
+- **Career Development:** Assisting mentees in navigating their career paths in the tech industry
+- **Technical Skills:** Offering insights into full-stack development, AI integration, and best coding practices
+- **Project Management:** Sharing expertise in Agile methodologies, product management, and effective team collaboration
+
 ## 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/soroosh-khaledi/
 Feel free to explore my projects or reach out for collaboration. Looking forward to connecting with fellow developers and innovators! 🚀
