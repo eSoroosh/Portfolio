@@ -60,10 +60,9 @@ Dynamics365-HRM/
 ```
 
 ## 📸 Screenshots
-- **Organizational Structure:**
-- **Recruitment Module:** ![Screenshot 2025-03-11 173108](https://github.com/user-attachments/assets/5d2b6e9c-828f-4198-862d-1e3e98102a9b)
-- **Employee Engagement:** *(Screenshots or visuals here)*
-- **Dashboards & Reporting:** *(Screenshots or visuals here)*
+- **Dashboards & Top Menu:** ![Screenshot 2025-03-11 175019](https://github.com/user-attachments/assets/190ea9a9-8c58-4ac4-b5cb-bf071a15d6d9)
+- **Organizational Structure:** ![Screenshot 2025-03-11 174146](https://github.com/user-attachments/assets/adfcdd86-469c-4f70-b013-3bc9aa1f39d0)
+- **Recruitment Module:** ![Screenshot 2025-03-11 174722](https://github.com/user-attachments/assets/bbdece83-d42d-460d-b865-38312258bd03)
 
 ## 📈 Results
 - Enhanced efficiency through automation and workflow optimization.
@@ -73,5 +72,6 @@ Dynamics365-HRM/
 ## 📞 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/soroosh-khaledi/](https://www.linkedin.com/in/soroosh-khaledi/)
 - **GitHub:** [Sorooshxp](https://github.com/Sorooshxp)
+
 
 
