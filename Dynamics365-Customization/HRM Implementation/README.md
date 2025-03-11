@@ -1,5 +1,16 @@
 # 📌 Dynamics 365 CRM - Comprehensive HRM Implementation
 
+## Table of Contents
+- [📖 Overview](#-overview)
+- [🌟 Project Objectives](#-project-objectives)
+- [🚀 Features and Custom Modules](#-features-and-custom-modules)
+- [🛠️ Technologies Used](#-technologies-used)
+- [📊 Real-time Dashboards and Reporting](#real-time-dashboards-and-reporting)
+- [🗂️ Project Structure](#-project-structure)
+- [📸 Screenshots](#-screenshots)
+- [📈 Results](#-results)
+- [📞 Contact](#-contact)
+
 ## 📖 Overview
 This project involves extensive custom implementations, integrations, and modules within Microsoft Dynamics 365 CRM to comprehensively manage all Human Resource Management (HRM) processes for organizational effectiveness. 
 The entire implementation is specifically designed and executed in the **Persian** language to cater to the local requirements.
@@ -111,7 +122,7 @@ Dynamics365-HRM/
 
 ## 📞 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/soroosh-khaledi/](https://www.linkedin.com/in/soroosh-khaledi/)
-- **GitHub:** [Sorooshxp](https://github.com/Sorooshxp)
+- **GitHub:** [eSoroosh](https://github.com/eSoroosh)
 
 <a href="https://www.linkedin.com/in/sorooshkhaledi/">
   <img align="center" alt="Soroosh Khaledi LinkedIn" width="200px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
