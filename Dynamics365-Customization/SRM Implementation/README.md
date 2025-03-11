@@ -39,9 +39,7 @@ This project includes a comprehensive Supplier Relationship Management (SRM) imp
 
 ## 🛠️ Technologies Used
 - **Microsoft Dynamics 365 CRM:** Core platform for CRM customization and management.
-- **![Screenshot 2025-03-11 190447](https://github.com/user-attachments/assets/6835a349-20ad-49be-942b-926136e40c6e)
-SSIS (SQL Server Integratio![Screenshot 2025-03-11 190629](https://github.com/user-attachments/assets/87b3fd86-5da4-4af9-87dc-6131be7bed97)
-n Services):** Data integration and pipeline automation.
+- **SSIS (SQL Server Integration Services):** Data integration and pipeline automation.
 - **REST APIs & Dynamics SDK:** Advanced integrations for real-time data synchronization.
 - **Power BI:** Visualization and analytic reporting.
 - **SQL Server:** Robust database management and data storage.
