@@ -7,23 +7,51 @@ The entire implementation is specifically designed and executed in the **Persian
 ## 🌟 Key Objectives
 - Streamline HR processes with customized workflows and automated systems.
 - Centralize and integrate various HR operations into a single unified platform.
+- Improved employee lifecycle management, from recruitment to retirement.
 - Enable real-time analytics and insightful dashboards for informed decision-making.
 
-## 🚀 Features
+## 🚀 Features and Custom Modules:
 
 ### Automated Workflows
 - Streamlined recruitment and onboarding processes.
 - Automated workflows to manage and track personnel-related operations and approvals.
 
-### Custom Modules
-- **Recruitment:** Application tracking, interviews, and assessment management.
-- **Training:** Management of training courses, historical training records, and employee skill assessments.
-- **Personnel Care:** Skill-level management, responsibility grading, and performance assessments.
-- **Organizational Structure:** Management of job profiles, job positions, insurance, work locations, and organizational groups.
-- **Reporting:** Inspection reports, monitoring plans, complaint registration, and monitoring dashboards.
-- **Compensation and Payroll:** Performance evaluations, salary calculations, managerial bonuses, and payroll forms.
-- **Employee Engagement:** Suggestion management systems, improvement initiative tracking, and employee participation.
-- **HR Requests Management:** Management of loans, assignments, and administrative requests.
+### **📋 Recruitment**
+- **Recruitment Channels:** Managing job listings, job boards, and referral programs.
+- **Job Applications:** Storing and tracking applicants.
+- **Interviews:** Scheduling and tracking interviews.
+- **Applicant Evaluations:** Performance tracking and analysis.
+
+### **🏢 Organizational Structure**
+- **Departments & Job Positions:** Organizing employees by departments.
+- **Employee Records:** Centralized employee database.
+- **Skill & Competency Levels:** Tracking employee skill development.
+
+### **📊 Employee Evaluation**
+- **Performance Indicators:** KPIs for employee performance tracking.
+- **360-Degree Assessments:** Peer and manager evaluations.
+- **Evaluation Dashboard:** Personalized evaluation worklists.
+
+### **📈 Employee Development**
+- **Training Programs:** Managing internal and external courses.
+- **Certifications & Degrees:** Tracking educational achievements.
+- **Training Events & Workshops:** Scheduling and attendance tracking.
+
+### **🩺 Employee Benefits & Welfare**
+- **Insurance Plans:** Health and retirement insurance.
+- **Wellness & Assistance Requests:** Employee benefit applications.
+- **Leave Management:** Requesting unpaid leave and approvals.
+
+### **💼 Employment Contracts & Payroll**
+- **Job Contracts:** Managing employee contracts.
+- **Salary & Compensation:** Salary structure, bonuses, and benefits.
+- **Employment History:** Tracking promotions and transfers.
+
+### **📑 Employee Requests & Approvals**
+- **Training Requests:** Employees requesting to join courses.
+- **Hiring Requests:** Managers requesting new employees.
+- **Certificate Requests:** Employees requesting official employment documents.
+- **Resignation & Termination Processing:** Managing resignation approvals.
 
 ## 🛠️ Technologies Used
 - **Microsoft Dynamics 365 CRM:** Core CRM customization and module development.
@@ -39,23 +67,33 @@ The entire implementation is specifically designed and executed in the **Persian
 ## 🗂️ Project Structure
 ```
 Dynamics365-HRM/
-├── CustomModules/
-│   ├── Recruitment
-│   ├── Training
-│   ├── PersonnelCare
-│   ├── OrganizationalStructure
-│   ├── Reporting
-│   ├── Payroll
-│   ├── EmployeeEngagement
-│   └── RequestsManagement
-├── Dashboards/
-│   └── HRM-Dashboards.pbix
+├── Recruitment/
+│   ├── JobChannels
+│   ├── Applications
+│   ├── Interviews
+│   └── Evaluations
+├── EmployeeManagement/
+│   ├── Departments
+│   ├── Employees
+│   ├── SkillTracking
+│   ├── PerformanceReviews
+│   ├── Promotions
+│   └── Payroll
+├── Training/
+│   ├── Courses
+│   ├── Certifications
+│   ├── Instructors
+│   ├── TrainingRequests
+│   └── TrainingEvaluations
+├── Benefits/
+│   ├── Insurance
+│   ├── LeaveRequests
+│   ├── WellnessRequests
+│   └── AssistancePrograms
 ├── Integration/
-│   ├── API-Integration
-│   └── SSIS-Packages
-├── Documentation/
-│   ├── TechnicalDocs
-│   └── UserGuides
+│   ├── API-Integrations
+│   ├── SSIS-Packages
+│   └── PowerBI-Dashboards
 └── README.md
 ```
 
@@ -65,6 +103,8 @@ Dynamics365-HRM/
 - **Recruitment Module:** ![Screenshot 2025-03-11 174722](https://github.com/user-attachments/assets/bbdece83-d42d-460d-b865-38312258bd03)
 
 ## 📈 Results
+- Automated HR processes, reducing manual work by 50%.
+- Improved hiring efficiency with structured recruitment workflows.
 - Enhanced efficiency through automation and workflow optimization.
 - Improved strategic decision-making via detailed HR analytics.
 - Increased transparency and ease of HR operations across the organization.
