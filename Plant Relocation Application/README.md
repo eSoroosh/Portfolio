@@ -1,4 +1,4 @@
-# Match-Mark Web Application and Offline Android Companion
+# Plant Relocation (Match-Marking) Web Application and Offline Android Companion
 
 A C# (ASP.NET Razor Pages) web application designed to visually map and manage manufacturing plant components onto detailed layouts, paired with an Android companion app (Kotlin) for offline data capture and synchronization.
 
