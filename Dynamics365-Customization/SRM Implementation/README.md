@@ -75,6 +75,6 @@ Dynamics365-SRM/
 - Significantly reduced manual errors through automated processes.
 
 ## 📞 Contact
-- **Email:** sorooshk@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/soroosh-khaledi/](https://www.linkedin.com/in/soroosh-khaledi/)
 - **GitHub:** [Sorooshxp](https://github.com/Sorooshxp)
 
