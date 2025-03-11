@@ -53,9 +53,9 @@ Features:
 
 ### 📌 Microsoft Dynamics 365 Customization
 A series of custom modules and integrations for Dynamics 365 CRM:
-- *[HRM Modules Development]([https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/SRM%20Implementation](https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/HRM%20Implementation):* Automating employee recruitment, induction, and training processes by utilizing the current MS D365 platform.
-- *[SRM (Supplier Relationship Management)](https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/SRM%20Implementation):* An SRM (Supplier Relationship Management) module by integrating SSIS packages, MS D365 APIs, and SDK, ensuring data consistency across various systems.
-- *Deep Integrations:* Integrated interconnection of multiple MS D365 environments to one another through SSIS, APIs, and SDKs to offer smooth data flows across modules (sales, HR, and supply chain).
+- **[HRM Modules Development]((https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/HRM%20Implementation):** Automating employee recruitment, induction, and training processes by utilizing the current MS D365 platform.
+- **[SRM (Supplier Relationship Management)](https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/SRM%20Implementation):** An SRM (Supplier Relationship Management) module by integrating SSIS packages, MS D365 APIs, and SDK, ensuring data consistency across various systems.
+- **Deep Integrations:** Integrated interconnection of multiple MS D365 environments to one another through SSIS, APIs, and SDKs to offer smooth data flows across modules (sales, HR, and supply chain).
   
 ## 📚 Education
   - Executive Master of Business Administration (EMBA)
