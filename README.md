@@ -41,7 +41,7 @@ Highlights:
 - Effective use of HTML5 Canvas for high-quality image rendering.
 - Advanced search and filter functionalities.
 
-### 📌 PlantRelocation App
+### 📌 [Plant Relocation App](https://github.com/eSoroosh/Portfolio/tree/main/Plant%20Relocation%20Application)
 An offline-first Android application developed with:
 - Language: Kotlin
 - Database: SQLite for offline data storage.
