@@ -75,6 +75,6 @@ MyProject/
 │   └── (Static Assets: CSS, JS, Images)
 │
 └── ...
-
+```
 ## UI Screenshots
 Below are a few example screens from the Match-Mark Web Application and the Offline Android Companion. These demonstrate the app’s core functionality, such as part listing, blueprint overlay, and offline data entry. 
