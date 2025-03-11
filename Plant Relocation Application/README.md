@@ -9,10 +9,7 @@ A C# (ASP.NET Razor Pages) web application designed to visually map and manage m
 2. [Features](#features)
 3. [Technology Stack](#technology-stack)
 4. [Folder Structure](#folder-structure)
-5. [Getting Started](#getting-started)
-6. [Android Offline App](#android-offline-app)
-7. [Contributing](#contributing)
-8. [License](#license)
+5. [UI Screenshots](#UI-Screenshots)
 
 ---
 
