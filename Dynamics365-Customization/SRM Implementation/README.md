@@ -79,6 +79,6 @@ Dynamics365-SRM/
 
 ## 📞 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/soroosh-khaledi/](https://www.linkedin.com/in/soroosh-khaledi/)
-- **GitHub:** [Sorooshxp](https://github.com/Sorooshxp)
+- **GitHub:** [eSoroosh](https://github.com/eSoroosh)
 
 
