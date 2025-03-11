@@ -45,7 +45,6 @@ HomeSecuritySMS/
 ```
 
 ## 📸 Screenshots
-- **Home Screen & Controls**
   ![Home Screen](https://github.com/user-attachments/assets/3d090c89-49d6-45d6-84af-af48b84bc45f)
 
 ## 📈 Results
