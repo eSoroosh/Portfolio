@@ -29,7 +29,7 @@ I am a Senior Software Engineer with over a decade of experience in full-stack d
 
 ## 🚀 Featured Projects:
 
-### 📌 Match-Marking Web Application
+### 📌 [Plant Relocation (Match Marking Web Application](https://github.com/eSoroosh/Portfolio/tree/main/Plant%20Relocation%20Application)
 A comprehensive full-stack application built using:
 - Backend: ASP.NET Core, Entity Framework Core, SQL Server
 - Frontend: React web with a focus on responsive UI and seamless data flow.
@@ -41,7 +41,7 @@ Highlights:
 - Effective use of HTML5 Canvas for high-quality image rendering.
 - Advanced search and filter functionalities.
 
-### 📌 [Plant Relocation App](https://github.com/eSoroosh/Portfolio/tree/main/Plant%20Relocation%20Application)
+### 📌 [Plant Relocation (Match Marking Android Application](https://github.com/eSoroosh/Portfolio/tree/main/Plant%20Relocation%20Application)
 An offline-first Android application developed with:
 - Language: Kotlin
 - Database: SQLite for offline data storage.
