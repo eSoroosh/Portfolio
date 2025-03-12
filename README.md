@@ -64,7 +64,8 @@ I am passionate about sharing knowledge and empowering the next generation of te
 - **Career Development:** Assisting mentees in navigating their career paths in the tech industry
 - **Technical Skills:** Offering insights into full-stack development, AI integration, and best coding practices
 - **Project Management:** Sharing expertise in Agile methodologies, product management, and effective team collaboration
-<section style="height: 360px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 450px;"><iframe src="https://adplist.org/widgets/impact?src=soroosh-khaledi" title="Impact" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
+
+[![Book a session now](https://github.com/user-attachments/assets/373480c2-65bf-4212-a671-798237f2c70f)](https://adplist.org/mentors/soroosh-khaledi)
 
 ## 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/soroosh-khaledi/
