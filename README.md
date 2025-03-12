@@ -29,21 +29,21 @@ I am a Senior Software Engineer with over a decade of experience in full-stack d
 
 ### 📌 [Plant Relocation (Match Marking) Web Application](https://github.com/eSoroosh/Portfolio/tree/main/Plant%20Relocation%20Application)
 A comprehensive full-stack application built using:
-- Backend: ASP.NET Core, Entity Framework Core, SQL Server
-- Frontend: React web with a focus on responsive UI and seamless data flow.
-Features: 
+- **Backend:** ASP.NET Core, Entity Framework Core, SQL Server
+- **Frontend:** React web with a focus on responsive UI and seamless data flow.
+**Features: **
 - User authentication
 - Full-featured plant relocation management
 - Import and Export 
-Highlights:
+**Highlights:**
 - Effective use of HTML5 Canvas for high-quality image rendering.
 - Advanced search and filter functionalities.
 
 ### 📌 [Plant Relocation (Match Marking) Android Application](https://github.com/eSoroosh/Portfolio/tree/main/Plant%20Relocation%20Application)
 An offline-first Android application developed with:
-- Language: Kotlin
-- Database: SQLite for offline data storage.
-Features:
+- **Language:** Kotlin
+- **Database:** SQLite for offline data storage.
+**Features:**
 - Home screen with navigation for new and existing projects.
 - Synchronization capability for offline and online modes.
 - Modular architecture for scalability.
@@ -54,7 +54,18 @@ A series of custom modules and integrations for Dynamics 365 CRM:
 - **[HRM Modules Development](https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/HRM%20Implementation):** Automating employee recruitment, induction, and training processes by utilizing the current MS D365 platform.
 - **[SRM (Supplier Relationship Management)](https://github.com/eSoroosh/Portfolio/tree/main/Dynamics365-Customization/SRM%20Implementation):** An SRM (Supplier Relationship Management) module by integrating SSIS packages, MS D365 APIs, and SDK, ensuring data consistency across various systems.
 - **Deep Integrations:** Integrated interconnection of multiple MS D365 environments to one another through SSIS, APIs, and SDKs to offer smooth data flows across modules (sales, HR, and supply chain).
-  
+
+### 📌 Home Security SMS Android App
+A minimal Android app to control a home security system using SMS:
+
+- **Language:** Kotlin
+- **Platform:** Android SDK
+- **Library:** smsManager for SMS functionality
+**Features:**
+- **One-click SMS:** Quickly activate or deactivate the security system
+- **Real-time Status Display:** Immediate visibility of the security system status
+- **Minimalistic UI:** Simple, intuitive controls for user-friendly interaction
+
 ## 📚 Education
   - Executive Master of Business Administration (EMBA)
   - BSc in Computer Software Engineering 
