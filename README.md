@@ -31,7 +31,8 @@ I am a Senior Software Engineer with over a decade of experience in full-stack d
 A comprehensive full-stack application built using:
 - **Backend:** ASP.NET Core, Entity Framework Core, SQL Server
 - **Frontend:** React web with a focus on responsive UI and seamless data flow.
-**Features: **
+
+  **Features:**
 - User authentication
 - Full-featured plant relocation management
 - Import and Export 
@@ -43,6 +44,7 @@ A comprehensive full-stack application built using:
 An offline-first Android application developed with:
 - **Language:** Kotlin
 - **Database:** SQLite for offline data storage.
+
 **Features:**
 - Home screen with navigation for new and existing projects.
 - Synchronization capability for offline and online modes.
@@ -61,6 +63,7 @@ A minimal Android app to control a home security system using SMS:
 - **Language:** Kotlin
 - **Platform:** Android SDK
 - **Library:** smsManager for SMS functionality
+
 **Features:**
 - **One-click SMS:** Quickly activate or deactivate the security system
 - **Real-time Status Display:** Immediate visibility of the security system status
