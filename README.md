@@ -1,6 +1,6 @@
 # Portfolio
 ## 👋 About Me:
-I am a Senior Software Engineer with over a decade of experience in full-stack development, AI-driven product management, and IT project management. I specialize in building scalable software solutions that align with business objectives. My core expertise includes C#, Python, JavaScript, ASP.NET, Microsoft Dynamics 365, and Agile methodologies. I thrive in translating complex requirements into effective, user-centric software solutions.
+I am a Senior Software Engineer with over a decade of experience in full-stack development and IT project management. I specialize in building scalable software solutions that align with business objectives. My core expertise includes C#, Python, JavaScript, ASP.NET, Microsoft Dynamics 365, and Agile methodologies. I thrive in translating complex requirements into effective, user-centric software solutions.
 
 ## 🛠️ Skills:
 - Programming Languages
@@ -15,8 +15,6 @@ I am a Senior Software Engineer with over a decade of experience in full-stack d
     Agile, Scrum, IT Project Management, DevOps
 - Tools & Platforms
     Power BI, MS Dynamics 365, Git, MS Power Platform, MS Project, Asana
-- Specializations
-    AI Product Management, Cybersecurity, E-Commerce Solutions
   
 ## 🏆 Certifications:
   - [IBM Product Management - IBM](https://coursera.org/share/4a0b26d32979262ed54298db4ab4dfbc)
@@ -66,6 +64,7 @@ I am passionate about sharing knowledge and empowering the next generation of te
 - **Career Development:** Assisting mentees in navigating their career paths in the tech industry
 - **Technical Skills:** Offering insights into full-stack development, AI integration, and best coding practices
 - **Project Management:** Sharing expertise in Agile methodologies, product management, and effective team collaboration
+<section style="height: 360px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 450px;"><iframe src="https://adplist.org/widgets/impact?src=soroosh-khaledi" title="Impact" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
 
 ## 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/soroosh-khaledi/
